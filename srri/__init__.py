@@ -3,7 +3,7 @@ import subprocess
 
 
 def collect_and_install(supress_output: bool = False) -> bool:
-    """Recursively collects requirements.txt (with depth of 1 dir) and installs all of them
+    """Recursively collects requirements.txt and installs all of them
 
     Args:
         supress_output (bool, optional): Produces no output if True. Defaults to False.
