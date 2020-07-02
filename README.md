@@ -1,2 +1,3 @@
-# rri
-Recursive Requirements Installer
+# simple-rri
+
+Simple Recursive Requirements Installer
